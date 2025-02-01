@@ -1,0 +1,8 @@
+.classpath
+pom.xml.versionsBackup
+.idea
+logs
+venv
+target/
+*.iml
+config/
